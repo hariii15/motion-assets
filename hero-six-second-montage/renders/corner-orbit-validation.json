@@ -1,0 +1,29 @@
+{
+  "result": "PASS",
+  "duration": 6,
+  "fps": 30,
+  "frames": 180,
+  "width": 1080,
+  "height": 1440,
+  "cornerAssets": 4,
+  "portraitHoldFrames": 6,
+  "portraitHoldSeconds": 0.2,
+  "portraitCycleSeconds": 1.2,
+  "portraitCycleRepeats": 5,
+  "portraitOrder": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "cornerMotion": "Smooth closed border orbit; each copy moves to the next corner in six seconds.",
+  "spinDegreesPerSecond": 15,
+  "loopBoundaryExact": true,
+  "frame180EqualsFrame0": true,
+  "continuousFlashing": false,
+  "effects": "Identical restrained zoom, print outline and teal colour echo for each portrait; no white flashes at 5 Hz.",
+  "soundtrack": null,
+  "sha256": "87140345e273b1fd4f22deadcd53cc434e2dc7f196d71f9582e713e34dba3681"
+}
