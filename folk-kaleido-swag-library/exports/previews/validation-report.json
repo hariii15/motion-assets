@@ -1,0 +1,314 @@
+{
+  "result": "PASS",
+  "assets": 88,
+  "svg": 88,
+  "pngMasters": 88,
+  "pngEditingCopies": 88,
+  "webmMasters": 20,
+  "webmEditingCopies": 20,
+  "lottie": 3,
+  "sourceSegments": 16,
+  "presets": 22,
+  "geometrySamples": 440,
+  "loopTests": 46,
+  "alphaSourceComparisons": [
+    {
+      "path": "exports/webm/checkerboard-tunnel.webm",
+      "frame": 21,
+      "meanAlphaError": 0.328125,
+      "opaqueMeanColorError": 1.3342136150234742,
+      "colorChannelSamples": 3408
+    },
+    {
+      "path": "exports/webm/masters/checkerboard-tunnel.webm",
+      "frame": 21,
+      "meanAlphaError": 0.4435763888888889,
+      "opaqueMeanColorError": 1.2855242739968964,
+      "colorChannelSamples": 40599
+    },
+    {
+      "path": "exports/webm/radial-textile-pattern.webm",
+      "frame": 21,
+      "meanAlphaError": 0.14265046296296297,
+      "opaqueMeanColorError": 1.6666666666666667,
+      "colorChannelSamples": 27
+    },
+    {
+      "path": "exports/webm/masters/radial-textile-pattern.webm",
+      "frame": 21,
+      "meanAlphaError": 0.23640046296296297,
+      "opaqueMeanColorError": 1.594325718496684,
+      "colorChannelSamples": 8142
+    },
+    {
+      "path": "exports/webm/spiral-garland.webm",
+      "frame": 21,
+      "meanAlphaError": 0.4427083333333333,
+      "opaqueMeanColorError": null,
+      "colorChannelSamples": 0
+    },
+    {
+      "path": "exports/webm/masters/spiral-garland.webm",
+      "frame": 21,
+      "meanAlphaError": 0.5732060185185185,
+      "opaqueMeanColorError": 1.805990656773839,
+      "colorChannelSamples": 7278
+    },
+    {
+      "path": "exports/webm/lotus-depth-tunnel.webm",
+      "frame": 21,
+      "meanAlphaError": 0.37094907407407407,
+      "opaqueMeanColorError": 1.8481012658227849,
+      "colorChannelSamples": 948
+    },
+    {
+      "path": "exports/webm/masters/lotus-depth-tunnel.webm",
+      "frame": 21,
+      "meanAlphaError": 0.4581886574074074,
+      "opaqueMeanColorError": 1.576443793720514,
+      "colorChannelSamples": 30735
+    },
+    {
+      "path": "exports/webm/temple-wheel-portal.webm",
+      "frame": 21,
+      "meanAlphaError": 0.23206018518518517,
+      "opaqueMeanColorError": 1.8260340632603407,
+      "colorChannelSamples": 822
+    },
+    {
+      "path": "exports/webm/masters/temple-wheel-portal.webm",
+      "frame": 21,
+      "meanAlphaError": 0.39091435185185186,
+      "opaqueMeanColorError": 1.452384410554345,
+      "colorChannelSamples": 20655
+    },
+    {
+      "path": "exports/webm/kolam-shatter.webm",
+      "frame": 21,
+      "meanAlphaError": 0.03747106481481482,
+      "opaqueMeanColorError": null,
+      "colorChannelSamples": 0
+    },
+    {
+      "path": "exports/webm/masters/kolam-shatter.webm",
+      "frame": 21,
+      "meanAlphaError": 0.060619212962962965,
+      "opaqueMeanColorError": null,
+      "colorChannelSamples": 0
+    },
+    {
+      "path": "exports/webm/flower-impact-ring.webm",
+      "frame": 21,
+      "meanAlphaError": 0.14858217592592593,
+      "opaqueMeanColorError": 2.062015503875969,
+      "colorChannelSamples": 129
+    },
+    {
+      "path": "exports/webm/masters/flower-impact-ring.webm",
+      "frame": 21,
+      "meanAlphaError": 0.19429976851851852,
+      "opaqueMeanColorError": 1.746152956149485,
+      "colorChannelSamples": 8643
+    },
+    {
+      "path": "exports/webm/peacock-feather-burst.webm",
+      "frame": 21,
+      "meanAlphaError": 0.0931712962962963,
+      "opaqueMeanColorError": 2.125,
+      "colorChannelSamples": 456
+    },
+    {
+      "path": "exports/webm/masters/peacock-feather-burst.webm",
+      "frame": 21,
+      "meanAlphaError": 0.17028356481481483,
+      "opaqueMeanColorError": 2.1089536138079827,
+      "colorChannelSamples": 10197
+    },
+    {
+      "path": "exports/webm/kaleidoscope-iris.webm",
+      "frame": 21,
+      "meanAlphaError": 0.4670138888888889,
+      "opaqueMeanColorError": 1.5442230242167478,
+      "colorChannelSamples": 19119
+    },
+    {
+      "path": "exports/webm/masters/kaleidoscope-iris.webm",
+      "frame": 21,
+      "meanAlphaError": 0.4730902777777778,
+      "opaqueMeanColorError": 1.366239195050992,
+      "colorChannelSamples": 95211
+    },
+    {
+      "path": "exports/webm/mirrored-wedge-wipe.webm",
+      "frame": 21,
+      "meanAlphaError": 0.3984375,
+      "opaqueMeanColorError": 1.9985097879834721,
+      "colorChannelSamples": 14763
+    },
+    {
+      "path": "exports/webm/masters/mirrored-wedge-wipe.webm",
+      "frame": 21,
+      "meanAlphaError": 0.43113425925925924,
+      "opaqueMeanColorError": 2.1634038522260814,
+      "colorChannelSamples": 76008
+    },
+    {
+      "path": "exports/webm/flower-spiral-wipe.webm",
+      "frame": 21,
+      "meanAlphaError": 0.31235532407407407,
+      "opaqueMeanColorError": 2.252032520325203,
+      "colorChannelSamples": 123
+    },
+    {
+      "path": "exports/webm/masters/flower-spiral-wipe.webm",
+      "frame": 21,
+      "meanAlphaError": 0.4185474537037037,
+      "opaqueMeanColorError": 2.1771424841720513,
+      "colorChannelSamples": 15321
+    },
+    {
+      "path": "exports/webm/textile-zoom-wipe.webm",
+      "frame": 21,
+      "meanAlphaError": 0.1271701388888889,
+      "opaqueMeanColorError": 3.6666666666666665,
+      "colorChannelSamples": 3
+    },
+    {
+      "path": "exports/webm/masters/textile-zoom-wipe.webm",
+      "frame": 21,
+      "meanAlphaError": 0.19560185185185186,
+      "opaqueMeanColorError": 1.383974358974359,
+      "colorChannelSamples": 4680
+    },
+    {
+      "path": "exports/webm/peacock-feather-kaleidoscope.webm",
+      "frame": 21,
+      "meanAlphaError": 0.1753472222222222,
+      "opaqueMeanColorError": 0.9653439153439154,
+      "colorChannelSamples": 3780
+    },
+    {
+      "path": "exports/webm/masters/peacock-feather-kaleidoscope.webm",
+      "frame": 21,
+      "meanAlphaError": 0.42722800925925924,
+      "opaqueMeanColorError": 0.7735571260306242,
+      "colorChannelSamples": 37356
+    },
+    {
+      "path": "exports/webm/kolam-kaleidoscope.webm",
+      "frame": 21,
+      "meanAlphaError": 0.09809027777777778,
+      "opaqueMeanColorError": null,
+      "colorChannelSamples": 0
+    },
+    {
+      "path": "exports/webm/masters/kolam-kaleidoscope.webm",
+      "frame": 21,
+      "meanAlphaError": 0.19328703703703703,
+      "opaqueMeanColorError": 1.8666666666666667,
+      "colorChannelSamples": 30
+    },
+    {
+      "path": "exports/webm/Tamil-letter-ring.webm",
+      "frame": 21,
+      "meanAlphaError": 0.07407407407407407,
+      "opaqueMeanColorError": null,
+      "colorChannelSamples": 0
+    },
+    {
+      "path": "exports/webm/masters/Tamil-letter-ring.webm",
+      "frame": 21,
+      "meanAlphaError": 0.10807291666666667,
+      "opaqueMeanColorError": 1.7777777777777777,
+      "colorChannelSamples": 1377
+    },
+    {
+      "path": "exports/webm/hero-echo-demo.webm",
+      "frame": 21,
+      "meanAlphaError": 0.41420717592592593,
+      "opaqueMeanColorError": 1.0142830983336386,
+      "colorChannelSamples": 16383
+    },
+    {
+      "path": "exports/webm/masters/hero-echo-demo.webm",
+      "frame": 21,
+      "meanAlphaError": 0.4683159722222222,
+      "opaqueMeanColorError": 1.6682391249895634,
+      "colorChannelSamples": 71862
+    },
+    {
+      "path": "exports/webm/hero-mirror-demo.webm",
+      "frame": 21,
+      "meanAlphaError": 0.3130787037037037,
+      "opaqueMeanColorError": 1.3500069185000692,
+      "colorChannelSamples": 14454
+    },
+    {
+      "path": "exports/webm/masters/hero-mirror-demo.webm",
+      "frame": 21,
+      "meanAlphaError": 0.34013310185185186,
+      "opaqueMeanColorError": 1.6808474680432646,
+      "colorChannelSamples": 65088
+    },
+    {
+      "path": "exports/webm/hero-slice-demo.webm",
+      "frame": 21,
+      "meanAlphaError": 0.3214699074074074,
+      "opaqueMeanColorError": 1.6780169602087411,
+      "colorChannelSamples": 15330
+    },
+    {
+      "path": "exports/webm/masters/hero-slice-demo.webm",
+      "frame": 21,
+      "meanAlphaError": 0.33796296296296297,
+      "opaqueMeanColorError": 1.3327392356933863,
+      "colorChannelSamples": 67329
+    },
+    {
+      "path": "exports/webm/lyric-circular-demo.webm",
+      "frame": 21,
+      "meanAlphaError": 0.05164930555555555,
+      "opaqueMeanColorError": null,
+      "colorChannelSamples": 0
+    },
+    {
+      "path": "exports/webm/masters/lyric-circular-demo.webm",
+      "frame": 21,
+      "meanAlphaError": 0.058015046296296294,
+      "opaqueMeanColorError": 1.9166666666666667,
+      "colorChannelSamples": 504
+    },
+    {
+      "path": "exports/webm/lyric-kaleidoscope-demo.webm",
+      "frame": 21,
+      "meanAlphaError": 0.051938657407407406,
+      "opaqueMeanColorError": null,
+      "colorChannelSamples": 0
+    },
+    {
+      "path": "exports/webm/masters/lyric-kaleidoscope-demo.webm",
+      "frame": 21,
+      "meanAlphaError": 0.0625,
+      "opaqueMeanColorError": null,
+      "colorChannelSamples": 0
+    }
+  ],
+  "preservedExistingFiles": 405,
+  "checks": [
+    "strict XML and JSON",
+    "unique IDs and consistent manifest paths",
+    "2160px SVG and alpha PNG masters",
+    "1080px convenience copies",
+    "unmasked geometry overflow: 440 frame samples",
+    "64 paired-wedge symmetry comparisons",
+    "loop seam comparisons",
+    "raster cutout filters and face-safe controls",
+    "40 VP9 files decoded including alpha",
+    "encoded alpha compared with current SVG evaluator",
+    "all local catalog links and 88 previews",
+    "five compositions decoded and played at 1x in Chromium",
+    "12 Lottie frame comparisons against SVG",
+    "existing library hashes unchanged"
+  ],
+  "preservationScope": "original repository checkout"
+}

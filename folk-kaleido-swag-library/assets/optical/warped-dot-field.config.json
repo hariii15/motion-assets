@@ -1,0 +1,8 @@
+{
+  "id": "warped-dot-field",
+  "generator": "OpticalTunnelGenerator",
+  "sourceAsset": "banana-leaf-segment",
+  "segments": 12,
+  "seed": 2932,
+  "animationPreset": "beat-kaleido-pulse"
+}

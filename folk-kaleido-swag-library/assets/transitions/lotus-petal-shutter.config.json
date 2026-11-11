@@ -1,0 +1,8 @@
+{
+  "id": "lotus-petal-shutter",
+  "generator": "TransitionMaskGenerator",
+  "sourceAsset": "ornamental-eye-segment",
+  "segments": 12,
+  "seed": 6230,
+  "animationPreset": "optical-tunnel-push"
+}

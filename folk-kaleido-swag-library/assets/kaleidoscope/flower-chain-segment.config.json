@@ -1,0 +1,8 @@
+{
+  "id": "flower-chain-segment",
+  "generator": "KaleidoscopeGenerator",
+  "sourceAsset": "flower-chain-segment",
+  "segments": 12,
+  "seed": 2059,
+  "animationPreset": "slow-kaleido-rotation"
+}

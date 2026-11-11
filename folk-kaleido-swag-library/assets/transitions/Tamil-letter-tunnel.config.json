@@ -1,0 +1,8 @@
+{
+  "id": "Tamil-letter-tunnel",
+  "generator": "TransitionMaskGenerator",
+  "sourceAsset": "lotus-petal-segment",
+  "segments": 12,
+  "seed": 5745,
+  "animationPreset": "drop-expansion"
+}

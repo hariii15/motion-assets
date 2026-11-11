@@ -1,0 +1,132 @@
+{
+  "result": "PASS",
+  "cards": 88,
+  "livePreviewCount": 88,
+  "filters": {
+    "format:webm": 20,
+    "format:lottie": 3,
+    "category:kaleidoscope": 16,
+    "loop:loop": 46,
+    "loop:one-shot": 42,
+    "beat:downbeat": 25,
+    "beat:transition": 15
+  },
+  "brokenImages": 0,
+  "themes": [
+    "dark",
+    "light",
+    "vermilion",
+    "moving"
+  ],
+  "neutralOverlay": true,
+  "liveFrameAdvance": true,
+  "playback": [
+    {
+      "id": "KaleidoscopeGallery",
+      "duration": 12.8,
+      "elapsed": 12.83290000000596,
+      "frames": 377,
+      "width": 960,
+      "height": 540,
+      "rate": 1
+    },
+    {
+      "id": "OpticalMotionGallery",
+      "duration": 9,
+      "elapsed": 9.03610000000149,
+      "frames": 270,
+      "width": 960,
+      "height": 540,
+      "rate": 1
+    },
+    {
+      "id": "HeroTreatmentGallery",
+      "duration": 6,
+      "elapsed": 6.02039999999851,
+      "frames": 180,
+      "width": 960,
+      "height": 540,
+      "rate": 1
+    },
+    {
+      "id": "LyricMotionGallery",
+      "duration": 6,
+      "elapsed": 6.0177999999970195,
+      "frames": 180,
+      "width": 960,
+      "height": 540,
+      "rate": 1
+    },
+    {
+      "id": "SwagLayerDemo",
+      "duration": 4,
+      "elapsed": 4.05239999999851,
+      "frames": 120,
+      "width": 1080,
+      "height": 1440,
+      "rate": 1
+    }
+  ],
+  "lottie": [
+    {
+      "id": "pulse-target",
+      "frame": 0,
+      "meanAlphaError": 0.3769718792866941
+    },
+    {
+      "id": "pulse-target",
+      "frame": 15,
+      "meanAlphaError": 0.4233093278463649
+    },
+    {
+      "id": "pulse-target",
+      "frame": 35,
+      "meanAlphaError": 0.35363168724279836
+    },
+    {
+      "id": "pulse-target",
+      "frame": 59,
+      "meanAlphaError": 0.3769718792866941
+    },
+    {
+      "id": "print-stamp-circle",
+      "frame": 0,
+      "meanAlphaError": 0
+    },
+    {
+      "id": "print-stamp-circle",
+      "frame": 15,
+      "meanAlphaError": 0.3769718792866941
+    },
+    {
+      "id": "print-stamp-circle",
+      "frame": 35,
+      "meanAlphaError": 0.3769718792866941
+    },
+    {
+      "id": "print-stamp-circle",
+      "frame": 59,
+      "meanAlphaError": 0.3769718792866941
+    },
+    {
+      "id": "drum-pulse-impact",
+      "frame": 0,
+      "meanAlphaError": 0.3047119341563786
+    },
+    {
+      "id": "drum-pulse-impact",
+      "frame": 15,
+      "meanAlphaError": 0.36666666666666664
+    },
+    {
+      "id": "drum-pulse-impact",
+      "frame": 35,
+      "meanAlphaError": 0.3769718792866941
+    },
+    {
+      "id": "drum-pulse-impact",
+      "frame": 59,
+      "meanAlphaError": 0.3769718792866941
+    }
+  ]
+}

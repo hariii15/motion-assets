@@ -1,0 +1,8 @@
+{
+  "id": "kaleidoscope-iris",
+  "generator": "TransitionMaskGenerator",
+  "sourceAsset": "flower-chain-segment",
+  "segments": 12,
+  "seed": 5163,
+  "animationPreset": "drop-expansion"
+}

@@ -1,0 +1,8 @@
+{
+  "id": "brush-burst",
+  "generator": "ImpactBurstGenerator",
+  "sourceAsset": "peacock-feather-segment",
+  "segments": 12,
+  "seed": 3805,
+  "animationPreset": "drop-expansion"
+}

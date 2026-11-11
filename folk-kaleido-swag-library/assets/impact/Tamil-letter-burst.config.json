@@ -1,0 +1,8 @@
+{
+  "id": "Tamil-letter-burst",
+  "generator": "ImpactBurstGenerator",
+  "sourceAsset": "banana-leaf-segment",
+  "segments": 12,
+  "seed": 4484,
+  "animationPreset": "drop-expansion"
+}

@@ -1,0 +1,8 @@
+{
+  "id": "peacock-feather-burst",
+  "generator": "ImpactBurstGenerator",
+  "sourceAsset": "ornamental-eye-segment",
+  "segments": 12,
+  "seed": 4678,
+  "animationPreset": "drop-expansion"
+}

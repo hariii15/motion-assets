@@ -1,0 +1,8 @@
+{
+  "id": "peacock-feather-iris",
+  "generator": "TransitionMaskGenerator",
+  "sourceAsset": "folk-flame-segment",
+  "segments": 12,
+  "seed": 6133,
+  "animationPreset": "drop-expansion"
+}

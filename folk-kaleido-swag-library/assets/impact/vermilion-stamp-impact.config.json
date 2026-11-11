@@ -1,0 +1,8 @@
+{
+  "id": "vermilion-stamp-impact",
+  "generator": "ImpactBurstGenerator",
+  "sourceAsset": "Tamil-letter-segment",
+  "segments": 12,
+  "seed": 4872,
+  "animationPreset": "block-print-stamp"
+}

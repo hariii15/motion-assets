@@ -1,0 +1,8 @@
+{
+  "id": "flower-chain-sweep",
+  "generator": "TransitionMaskGenerator",
+  "sourceAsset": "mural-brush-segment",
+  "segments": 12,
+  "seed": 6521,
+  "animationPreset": "optical-tunnel-push"
+}

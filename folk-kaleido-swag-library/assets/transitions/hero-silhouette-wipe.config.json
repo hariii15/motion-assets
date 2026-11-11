@@ -1,0 +1,8 @@
+{
+  "id": "hero-silhouette-wipe",
+  "generator": "TransitionMaskGenerator",
+  "sourceAsset": "textile-diamond-segment",
+  "segments": 12,
+  "seed": 5939,
+  "animationPreset": "optical-tunnel-push"
+}

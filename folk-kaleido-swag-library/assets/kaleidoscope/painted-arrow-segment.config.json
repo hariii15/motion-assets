@@ -1,0 +1,8 @@
+{
+  "id": "painted-arrow-segment",
+  "generator": "KaleidoscopeGenerator",
+  "sourceAsset": "painted-arrow-segment",
+  "segments": 12,
+  "seed": 1671,
+  "animationPreset": "slow-kaleido-rotation"
+}

@@ -1,0 +1,8 @@
+{
+  "id": "flower-spiral-wipe",
+  "generator": "TransitionMaskGenerator",
+  "sourceAsset": "kolam-wedge-02",
+  "segments": 12,
+  "seed": 5551,
+  "animationPreset": "optical-tunnel-push"
+}

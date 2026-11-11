@@ -1,0 +1,8 @@
+{
+  "id": "lyric-tunnel-demo",
+  "generator": "LyricPatternGenerator",
+  "sourceAsset": "temple-car-wheel-segment",
+  "segments": 12,
+  "seed": 8752,
+  "animationPreset": "optical-tunnel-push"
+}

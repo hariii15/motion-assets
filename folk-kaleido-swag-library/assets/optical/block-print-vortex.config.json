@@ -1,0 +1,8 @@
+{
+  "id": "block-print-vortex",
+  "generator": "OpticalTunnelGenerator",
+  "sourceAsset": "parai-rhythm-segment",
+  "segments": 12,
+  "seed": 3514,
+  "animationPreset": "beat-kaleido-pulse"
+}

@@ -1,0 +1,8 @@
+{
+  "id": "Tamil-letter-segment",
+  "generator": "KaleidoscopeGenerator",
+  "sourceAsset": "Tamil-letter-segment",
+  "segments": 12,
+  "seed": 1768,
+  "animationPreset": "slow-kaleido-rotation"
+}

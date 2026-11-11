@@ -1,0 +1,8 @@
+{
+  "id": "fine-pigment-grain",
+  "generator": "ScreenPrintTextureGenerator",
+  "sourceAsset": "jasmine-chain-segment",
+  "segments": 12,
+  "seed": 8946,
+  "animationPreset": "colour-palette-swap"
+}

@@ -1,0 +1,8 @@
+{
+  "id": "banana-leaf-segment",
+  "generator": "KaleidoscopeGenerator",
+  "sourceAsset": "banana-leaf-segment",
+  "segments": 12,
+  "seed": 1380,
+  "animationPreset": "slow-kaleido-rotation"
+}

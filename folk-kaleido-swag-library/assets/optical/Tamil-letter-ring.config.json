@@ -1,0 +1,8 @@
+{
+  "id": "Tamil-letter-ring",
+  "generator": "KaleidoscopeGenerator",
+  "sourceAsset": "Tamil-letter-segment",
+  "segments": 16,
+  "seed": 6812,
+  "animationPreset": "Tamil-letter-orbit"
+}

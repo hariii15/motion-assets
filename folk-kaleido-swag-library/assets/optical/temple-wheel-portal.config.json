@@ -1,0 +1,8 @@
+{
+  "id": "temple-wheel-portal",
+  "generator": "OpticalTunnelGenerator",
+  "sourceAsset": "mural-brush-segment",
+  "segments": 12,
+  "seed": 3417,
+  "animationPreset": "temple-wheel-portal"
+}

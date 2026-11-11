@@ -1,0 +1,8 @@
+{
+  "id": "peacock-feather-segment",
+  "generator": "KaleidoscopeGenerator",
+  "sourceAsset": "peacock-feather-segment",
+  "segments": 12,
+  "seed": 701,
+  "animationPreset": "slow-kaleido-rotation"
+}

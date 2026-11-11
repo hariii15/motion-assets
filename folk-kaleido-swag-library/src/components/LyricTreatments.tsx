@@ -1,0 +1,15 @@
+import React from 'react';
+import {Asset,type AssetProps} from './Asset';
+export type LyricProps=Omit<AssetProps,'id'>&{text:string};
+const treatment=(id:string)=>(p:LyricProps)=><Asset {...p} id={id}/>;
+export const LyricStamp=treatment('lyric-stamp-demo');
+export const LyricBehindHero=treatment('lyric-behind-hero-demo');
+export const LyricCircularRing=treatment('lyric-circular-demo');
+export const LyricMirrorPair=treatment('lyric-mirror-pair-demo');
+export const LyricRepeatedBackground=treatment('lyric-repeated-background-demo');
+export const LyricScalePunch=treatment('lyric-scale-punch-demo');
+export const LyricSliceReveal=treatment('lyric-slice-reveal-demo');
+export const LyricBeatSequence=treatment('lyric-beat-sequence-demo');
+export const LyricKaleidoscopeTexture=treatment('lyric-kaleidoscope-demo');
+export const LyricTunnel=treatment('lyric-tunnel-demo');
+export const TamilEnglishAlternator=(p:Omit<LyricProps,'text'>&{textTa:string;textEn:string})=><Asset {...p} id="Tamil-English-alternator-demo"/>;

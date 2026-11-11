@@ -1,0 +1,16 @@
+import {generator,type GeneratorName} from './engine';
+import type {GeneratorProps} from './types';
+export * from './engine';
+export * from './types';
+export const KaleidoscopeGenerator=(p:GeneratorProps={})=>generator('KaleidoscopeGenerator',p);
+export const RadialPatternGenerator=(p:GeneratorProps={})=>generator('RadialPatternGenerator',p);
+export const OpticalTunnelGenerator=(p:GeneratorProps={})=>generator('OpticalTunnelGenerator',p);
+export const HeroEchoGenerator=(p:GeneratorProps={})=>generator('HeroEchoGenerator',p);
+export const HeroSymmetryGenerator=(p:GeneratorProps={})=>generator('HeroSymmetryGenerator',p);
+export const KolamGenerator=(p:GeneratorProps={})=>generator('KolamGenerator',p);
+export const TamilLetterRingGenerator=(p:GeneratorProps={})=>generator('TamilLetterRingGenerator',p);
+export const FolkPatternGenerator=(p:GeneratorProps={})=>generator('FolkPatternGenerator',p);
+export const ImpactBurstGenerator=(p:GeneratorProps={})=>generator('ImpactBurstGenerator',p);
+export const TransitionMaskGenerator=(p:GeneratorProps={})=>generator('TransitionMaskGenerator',p);
+export const LyricPatternGenerator=(p:GeneratorProps={})=>generator('LyricPatternGenerator',p);
+export const ScreenPrintTextureGenerator=(p:GeneratorProps={})=>generator('ScreenPrintTextureGenerator',p);

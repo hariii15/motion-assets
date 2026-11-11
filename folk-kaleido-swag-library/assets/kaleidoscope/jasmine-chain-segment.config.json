@@ -1,0 +1,8 @@
+{
+  "id": "jasmine-chain-segment",
+  "generator": "KaleidoscopeGenerator",
+  "sourceAsset": "jasmine-chain-segment",
+  "segments": 12,
+  "seed": 1186,
+  "animationPreset": "slow-kaleido-rotation"
+}

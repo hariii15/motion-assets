@@ -1,0 +1,8 @@
+{
+  "id": "ornamental-eye-segment",
+  "generator": "KaleidoscopeGenerator",
+  "sourceAsset": "ornamental-eye-segment",
+  "segments": 12,
+  "seed": 1574,
+  "animationPreset": "slow-kaleido-rotation"
+}

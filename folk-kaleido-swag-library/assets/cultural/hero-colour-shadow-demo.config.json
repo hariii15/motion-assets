@@ -1,0 +1,8 @@
+{
+  "id": "hero-colour-shadow-demo",
+  "generator": "HeroEchoGenerator",
+  "sourceAsset": "textile-diamond-segment",
+  "segments": 6,
+  "seed": 7491,
+  "animationPreset": "hero-colour-shadow-impact"
+}

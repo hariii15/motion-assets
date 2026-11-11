@@ -1,0 +1,8 @@
+{
+  "id": "folk-flame-segment",
+  "generator": "KaleidoscopeGenerator",
+  "sourceAsset": "folk-flame-segment",
+  "segments": 12,
+  "seed": 1477,
+  "animationPreset": "slow-kaleido-rotation"
+}

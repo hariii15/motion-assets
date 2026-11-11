@@ -1,0 +1,8 @@
+{
+  "id": "kolam-infinity-tunnel",
+  "generator": "OpticalTunnelGenerator",
+  "sourceAsset": "flower-chain-segment",
+  "segments": 12,
+  "seed": 3611,
+  "animationPreset": "optical-tunnel-push"
+}

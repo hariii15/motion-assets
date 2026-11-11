@@ -1,0 +1,8 @@
+{
+  "id": "mirrored-peacock-ring",
+  "generator": "OpticalTunnelGenerator",
+  "sourceAsset": "painted-arrow-segment",
+  "segments": 12,
+  "seed": 3223,
+  "animationPreset": "beat-kaleido-pulse"
+}

@@ -1,0 +1,8 @@
+{
+  "id": "drum-pulse-impact",
+  "generator": "ImpactBurstGenerator",
+  "sourceAsset": "mural-brush-segment",
+  "segments": 12,
+  "seed": 4969,
+  "animationPreset": "flower-ring-expansion"
+}

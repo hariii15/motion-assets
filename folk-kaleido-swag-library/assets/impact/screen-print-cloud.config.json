@@ -1,0 +1,8 @@
+{
+  "id": "screen-print-cloud",
+  "generator": "ImpactBurstGenerator",
+  "sourceAsset": "folk-flame-segment",
+  "segments": 12,
+  "seed": 4581,
+  "animationPreset": "drop-expansion"
+}

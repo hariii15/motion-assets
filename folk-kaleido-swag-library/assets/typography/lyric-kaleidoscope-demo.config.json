@@ -1,0 +1,8 @@
+{
+  "id": "lyric-kaleidoscope-demo",
+  "generator": "LyricPatternGenerator",
+  "sourceAsset": "kolam-wedge-02",
+  "segments": 12,
+  "seed": 8655,
+  "animationPreset": "slow-kaleido-rotation"
+}

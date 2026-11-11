@@ -1,0 +1,8 @@
+{
+  "id": "painted-speed-lines",
+  "generator": "ImpactBurstGenerator",
+  "sourceAsset": "jasmine-chain-segment",
+  "segments": 12,
+  "seed": 4290,
+  "animationPreset": "drop-expansion"
+}

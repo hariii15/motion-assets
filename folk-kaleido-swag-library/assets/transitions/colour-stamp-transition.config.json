@@ -1,0 +1,8 @@
+{
+  "id": "colour-stamp-transition",
+  "generator": "TransitionMaskGenerator",
+  "sourceAsset": "banana-leaf-segment",
+  "segments": 12,
+  "seed": 6036,
+  "animationPreset": "optical-tunnel-push"
+}

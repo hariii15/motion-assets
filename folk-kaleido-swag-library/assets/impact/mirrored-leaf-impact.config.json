@@ -1,0 +1,8 @@
+{
+  "id": "mirrored-leaf-impact",
+  "generator": "ImpactBurstGenerator",
+  "sourceAsset": "parai-rhythm-segment",
+  "segments": 12,
+  "seed": 5066,
+  "animationPreset": "drop-expansion"
+}

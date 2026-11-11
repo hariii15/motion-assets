@@ -1,0 +1,8 @@
+{
+  "id": "rotating-diamond-grid",
+  "generator": "OpticalTunnelGenerator",
+  "sourceAsset": "lotus-petal-segment",
+  "segments": 12,
+  "seed": 2641,
+  "animationPreset": "beat-kaleido-pulse"
+}

@@ -1,0 +1,8 @@
+{
+  "id": "radial-shutter",
+  "generator": "TransitionMaskGenerator",
+  "sourceAsset": "temple-arch-segment",
+  "segments": 12,
+  "seed": 5260,
+  "animationPreset": "optical-tunnel-push"
+}

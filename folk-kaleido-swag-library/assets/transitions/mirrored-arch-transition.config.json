@@ -1,0 +1,8 @@
+{
+  "id": "mirrored-arch-transition",
+  "generator": "TransitionMaskGenerator",
+  "sourceAsset": "Tamil-letter-segment",
+  "segments": 12,
+  "seed": 6424,
+  "animationPreset": "optical-tunnel-push"
+}

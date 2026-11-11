@@ -1,0 +1,8 @@
+{
+  "id": "folk-impact-star",
+  "generator": "ImpactBurstGenerator",
+  "sourceAsset": "temple-arch-segment",
+  "segments": 12,
+  "seed": 3708,
+  "animationPreset": "drop-expansion"
+}

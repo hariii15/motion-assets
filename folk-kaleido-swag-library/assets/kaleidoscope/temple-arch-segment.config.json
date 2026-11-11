@@ -1,0 +1,8 @@
+{
+  "id": "temple-arch-segment",
+  "generator": "KaleidoscopeGenerator",
+  "sourceAsset": "temple-arch-segment",
+  "segments": 12,
+  "seed": 2156,
+  "animationPreset": "slow-kaleido-rotation"
+}

@@ -1,0 +1,8 @@
+{
+  "id": "radial-textile-pattern",
+  "generator": "OpticalTunnelGenerator",
+  "sourceAsset": "temple-car-wheel-segment",
+  "segments": 16,
+  "seed": 2544,
+  "animationPreset": "beat-kaleido-pulse"
+}

@@ -1,0 +1,8 @@
+{
+  "id": "lyric-repeated-background-demo",
+  "generator": "LyricPatternGenerator",
+  "sourceAsset": "flower-chain-segment",
+  "segments": 12,
+  "seed": 8267,
+  "animationPreset": "block-print-stamp"
+}

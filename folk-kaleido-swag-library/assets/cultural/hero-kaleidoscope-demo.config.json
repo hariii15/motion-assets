@@ -1,0 +1,8 @@
+{
+  "id": "hero-kaleidoscope-demo",
+  "generator": "HeroEchoGenerator",
+  "sourceAsset": "ornamental-eye-segment",
+  "segments": 6,
+  "seed": 7782,
+  "animationPreset": "radial-zoom-punch"
+}

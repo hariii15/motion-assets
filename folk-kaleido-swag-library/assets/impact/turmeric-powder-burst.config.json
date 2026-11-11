@@ -1,0 +1,8 @@
+{
+  "id": "turmeric-powder-burst",
+  "generator": "ImpactBurstGenerator",
+  "sourceAsset": "painted-arrow-segment",
+  "segments": 12,
+  "seed": 4775,
+  "animationPreset": "drop-expansion"
+}

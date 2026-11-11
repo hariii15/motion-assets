@@ -1,0 +1,8 @@
+{
+  "id": "lyric-behind-hero-demo",
+  "generator": "LyricPatternGenerator",
+  "sourceAsset": "Tamil-letter-segment",
+  "segments": 12,
+  "seed": 7976,
+  "animationPreset": "block-print-stamp"
+}

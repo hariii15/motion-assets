@@ -1,0 +1,8 @@
+{
+  "id": "mural-brush-segment",
+  "generator": "KaleidoscopeGenerator",
+  "sourceAsset": "mural-brush-segment",
+  "segments": 12,
+  "seed": 1865,
+  "animationPreset": "slow-kaleido-rotation"
+}

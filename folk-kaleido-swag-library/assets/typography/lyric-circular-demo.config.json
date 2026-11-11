@@ -1,0 +1,8 @@
+{
+  "id": "lyric-circular-demo",
+  "generator": "LyricPatternGenerator",
+  "sourceAsset": "mural-brush-segment",
+  "segments": 12,
+  "seed": 8073,
+  "animationPreset": "Tamil-letter-orbit"
+}

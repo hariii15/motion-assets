@@ -1,0 +1,8 @@
+{
+  "id": "kolam-shatter",
+  "generator": "ImpactBurstGenerator",
+  "sourceAsset": "kolam-wedge-02",
+  "segments": 12,
+  "seed": 3999,
+  "animationPreset": "kolam-draw-and-burst"
+}

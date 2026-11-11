@@ -1,0 +1,7 @@
+node_modules
+.scratch/
+t/
+dist/folk-kaleido-swag-assets.zip
+*.cache.json
+*.partial.webm
+RESUME-CHECKPOINT.json

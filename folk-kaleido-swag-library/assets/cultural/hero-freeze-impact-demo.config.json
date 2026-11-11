@@ -1,0 +1,8 @@
+{
+  "id": "hero-freeze-impact-demo",
+  "generator": "HeroEchoGenerator",
+  "sourceAsset": "banana-leaf-segment",
+  "segments": 6,
+  "seed": 7588,
+  "animationPreset": "radial-zoom-punch"
+}

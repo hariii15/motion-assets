@@ -1,0 +1,34 @@
+{
+  "result": "PASS",
+  "assets": [
+    "checkerboard-tunnel",
+    "radial-textile-pattern",
+    "spiral-garland",
+    "lotus-depth-tunnel",
+    "temple-wheel-portal",
+    "kolam-shatter",
+    "flower-impact-ring",
+    "peacock-feather-burst",
+    "kaleidoscope-iris",
+    "mirrored-wedge-wipe",
+    "flower-spiral-wipe",
+    "textile-zoom-wipe",
+    "peacock-feather-kaleidoscope",
+    "kolam-kaleidoscope",
+    "Tamil-letter-ring",
+    "hero-echo-demo",
+    "hero-mirror-demo",
+    "hero-slice-demo",
+    "lyric-circular-demo",
+    "lyric-kaleidoscope-demo"
+  ],
+  "frame": 21,
+  "backgrounds": [
+    "#171311",
+    "#FFFFFF",
+    "#C9342F",
+    "moving",
+    "hero"
+  ],
+  "notes": "Actual alpha-capable VP9 decode, not the SVG preview. Moving plate is a frame of generated test footage, not copyrighted video. Neutral hero is an original vector silhouette."
+}

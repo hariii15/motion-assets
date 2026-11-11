@@ -1,0 +1,8 @@
+{
+  "id": "registration-diamond-print",
+  "generator": "ScreenPrintTextureGenerator",
+  "sourceAsset": "banana-leaf-segment",
+  "segments": 12,
+  "seed": 9140,
+  "animationPreset": "colour-palette-swap"
+}

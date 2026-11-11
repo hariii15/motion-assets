@@ -1,0 +1,14 @@
+import React from 'react';
+import {Asset,type AssetProps} from './Asset';
+export type HeroProps=Omit<AssetProps,'id'>&{src?:string};
+const treatment=(id:string)=>(p:HeroProps)=><Asset {...p} asset={p.src??p.asset} id={id}/>;
+export const HeroDuotone=treatment('hero-duotone-demo');
+export const HeroOutline=treatment('hero-outline-demo');
+export const HeroEcho=treatment('hero-echo-demo');
+export const HeroMirror=treatment('hero-mirror-demo');
+export const HeroContactSheet=treatment('hero-contact-sheet-demo');
+export const HeroSlice=treatment('hero-slice-demo');
+export const HeroColorShadow=treatment('hero-colour-shadow-demo');
+export const HeroFreezeImpact=treatment('hero-freeze-impact-demo');
+export const HeroTunnel=treatment('hero-tunnel-demo');
+export const HeroKaleidoscope=treatment('hero-kaleidoscope-demo');

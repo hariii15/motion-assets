@@ -1,0 +1,8 @@
+{
+  "id": "mirrored-wedge-wipe",
+  "generator": "TransitionMaskGenerator",
+  "sourceAsset": "peacock-feather-segment",
+  "segments": 12,
+  "seed": 5357,
+  "animationPreset": "mirrored-snap"
+}

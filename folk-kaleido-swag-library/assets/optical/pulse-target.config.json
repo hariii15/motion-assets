@@ -1,0 +1,8 @@
+{
+  "id": "pulse-target",
+  "generator": "OpticalTunnelGenerator",
+  "sourceAsset": "folk-flame-segment",
+  "segments": 12,
+  "seed": 3029,
+  "animationPreset": "beat-kaleido-pulse"
+}

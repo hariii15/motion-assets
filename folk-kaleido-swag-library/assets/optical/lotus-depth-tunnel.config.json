@@ -1,0 +1,8 @@
+{
+  "id": "lotus-depth-tunnel",
+  "generator": "OpticalTunnelGenerator",
+  "sourceAsset": "Tamil-letter-segment",
+  "segments": 12,
+  "seed": 3320,
+  "animationPreset": "optical-tunnel-push"
+}

@@ -1,0 +1,8 @@
+{
+  "id": "block-print-flip",
+  "generator": "TransitionMaskGenerator",
+  "sourceAsset": "painted-arrow-segment",
+  "segments": 12,
+  "seed": 6327,
+  "animationPreset": "mirrored-snap"
+}

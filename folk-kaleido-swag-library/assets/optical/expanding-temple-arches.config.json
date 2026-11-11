@@ -1,0 +1,8 @@
+{
+  "id": "expanding-temple-arches",
+  "generator": "OpticalTunnelGenerator",
+  "sourceAsset": "jasmine-chain-segment",
+  "segments": 12,
+  "seed": 2738,
+  "animationPreset": "beat-kaleido-pulse"
+}

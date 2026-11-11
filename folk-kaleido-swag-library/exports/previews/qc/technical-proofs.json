@@ -1,0 +1,124 @@
+{
+  "result": "PASS",
+  "segmentCounts": [
+    6,
+    8,
+    12,
+    16
+  ],
+  "sourceCount": 16,
+  "faceSafeMask": "PASS",
+  "presetResults": [
+    {
+      "id": "slow-kaleido-rotation",
+      "sampleFrames": 60,
+      "result": "PASS"
+    },
+    {
+      "id": "beat-kaleido-pulse",
+      "sampleFrames": 60,
+      "result": "PASS"
+    },
+    {
+      "id": "kaleido-direction-reversal",
+      "sampleFrames": 60,
+      "result": "PASS"
+    },
+    {
+      "id": "radial-zoom-punch",
+      "sampleFrames": 60,
+      "result": "PASS"
+    },
+    {
+      "id": "optical-tunnel-push",
+      "sampleFrames": 60,
+      "result": "PASS"
+    },
+    {
+      "id": "mirrored-snap",
+      "sampleFrames": 60,
+      "result": "PASS"
+    },
+    {
+      "id": "hero-echo-trail",
+      "sampleFrames": 60,
+      "result": "PASS"
+    },
+    {
+      "id": "hero-colour-shadow-impact",
+      "sampleFrames": 60,
+      "result": "PASS"
+    },
+    {
+      "id": "hero-contact-sheet-flash",
+      "sampleFrames": 60,
+      "result": "PASS"
+    },
+    {
+      "id": "hero-slice-shift",
+      "sampleFrames": 60,
+      "result": "PASS"
+    },
+    {
+      "id": "kolam-draw-and-burst",
+      "sampleFrames": 60,
+      "result": "PASS"
+    },
+    {
+      "id": "flower-ring-expansion",
+      "sampleFrames": 60,
+      "result": "PASS"
+    },
+    {
+      "id": "Tamil-letter-orbit",
+      "sampleFrames": 60,
+      "result": "PASS"
+    },
+    {
+      "id": "temple-wheel-portal",
+      "sampleFrames": 60,
+      "result": "PASS"
+    },
+    {
+      "id": "peacock-feather-open",
+      "sampleFrames": 60,
+      "result": "PASS"
+    },
+    {
+      "id": "block-print-stamp",
+      "sampleFrames": 60,
+      "result": "PASS"
+    },
+    {
+      "id": "colour-palette-swap",
+      "sampleFrames": 60,
+      "result": "PASS"
+    },
+    {
+      "id": "short-cream-flash",
+      "sampleFrames": 60,
+      "result": "PASS"
+    },
+    {
+      "id": "short-vermilion-flash",
+      "sampleFrames": 60,
+      "result": "PASS"
+    },
+    {
+      "id": "pattern-contract-before-drop",
+      "sampleFrames": 60,
+      "result": "PASS"
+    },
+    {
+      "id": "drop-expansion",
+      "sampleFrames": 60,
+      "result": "PASS"
+    },
+    {
+      "id": "poster-change-impact",
+      "sampleFrames": 60,
+      "result": "PASS"
+    }
+  ],
+  "notes": "Monochrome, silhouette, colour and compositing proof images are separate. Review frame strips for anticipation and settle. No external human review is asserted."
+}

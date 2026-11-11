@@ -1,0 +1,8 @@
+{
+  "id": "temple-wheel-transition",
+  "generator": "TransitionMaskGenerator",
+  "sourceAsset": "temple-car-wheel-segment",
+  "segments": 12,
+  "seed": 5648,
+  "animationPreset": "optical-tunnel-push"
+}

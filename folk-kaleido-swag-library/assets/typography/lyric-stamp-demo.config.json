@@ -1,0 +1,8 @@
+{
+  "id": "lyric-stamp-demo",
+  "generator": "LyricPatternGenerator",
+  "sourceAsset": "painted-arrow-segment",
+  "segments": 12,
+  "seed": 7879,
+  "animationPreset": "block-print-stamp"
+}

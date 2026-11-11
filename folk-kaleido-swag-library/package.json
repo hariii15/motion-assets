@@ -1,0 +1,38 @@
+{
+  "name": "folk-kaleido-swag-library",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "export:svg": "tsx scripts/export-svg.ts",
+    "export:png": "tsx scripts/export-png.ts",
+    "export:webm": "tsx scripts/export-webm.ts",
+    "export:lottie": "tsx scripts/export-lottie.ts",
+    "catalog": "tsx scripts/build-catalog.ts",
+    "validate": "tsx scripts/validate-assets.ts",
+    "package": "tsx scripts/package-library.ts",
+    "previews": "tsx scripts/render-previews.ts",
+    "check:browser": "tsx scripts/browser-check.ts",
+    "typecheck": "tsc --noEmit",
+    "preview": "remotion studio src/scenes/index.ts",
+    "proof": "tsx scripts/proof.ts",
+    "export:all": "npm run typecheck && npm run export:svg && npm run proof && npm run export:png && npm run export:webm && npm run export:lottie && npm run catalog && npm run previews && npm run proof:technical && npm run proof:exports && npm run check:browser && npm run validate && npm run package",
+    "proof:technical": "tsx scripts/technical-proofs.ts",
+    "proof:exports": "tsx scripts/export-review.ts"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.387",
+    "react": "19.1.0",
+    "react-dom": "19.1.0",
+    "remotion": "4.0.387",
+    "sharp": "0.34.3"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.0",
+    "@types/react": "^19.1.0",
+    "@types/react-dom": "^19.1.0",
+    "lottie-web": "5.13.0",
+    "tsx": "4.20.5",
+    "typescript": "5.9.2"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "id": "temple-car-wheel-segment",
+  "generator": "KaleidoscopeGenerator",
+  "sourceAsset": "temple-car-wheel-segment",
+  "segments": 12,
+  "seed": 992,
+  "animationPreset": "slow-kaleido-rotation"
+}

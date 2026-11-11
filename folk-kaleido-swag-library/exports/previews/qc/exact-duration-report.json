@@ -1,0 +1,46 @@
+{
+  "result": "PASS",
+  "method": "Lossless video-only remux; unchanged encoded-video hashes verified.",
+  "previews": [
+    {
+      "id": "KaleidoscopeGallery",
+      "frames": 384,
+      "duration": 12.8,
+      "videoEssenceUnchanged": true,
+      "encodedVideoSha256": "05600d9f989be6005667c06a44cbfcec934b5e20cbb9993c2749f6d4eb267339",
+      "audioTracks": 0
+    },
+    {
+      "id": "OpticalMotionGallery",
+      "frames": 270,
+      "duration": 9,
+      "videoEssenceUnchanged": true,
+      "encodedVideoSha256": "dbd3b759f16a9da8a482dacf961789580c3423556a32768ef5f9cafaed0cf333",
+      "audioTracks": 0
+    },
+    {
+      "id": "HeroTreatmentGallery",
+      "frames": 180,
+      "duration": 6,
+      "videoEssenceUnchanged": true,
+      "encodedVideoSha256": "661705a5787319d674b39b3a94497e0b5c88b11178ee7e7bcf2c91022bd89115",
+      "audioTracks": 0
+    },
+    {
+      "id": "LyricMotionGallery",
+      "frames": 180,
+      "duration": 6,
+      "videoEssenceUnchanged": true,
+      "encodedVideoSha256": "10e856d5b4449a07aa984b618f7d33b1dd0a8ffd1475d1919e2105e1f6416448",
+      "audioTracks": 0
+    },
+    {
+      "id": "SwagLayerDemo",
+      "frames": 120,
+      "duration": 4,
+      "videoEssenceUnchanged": true,
+      "encodedVideoSha256": "1463dd2ad3a6eae97e3d4de072f389c264be968ab62e81f93072ff0c40d4652e",
+      "audioTracks": 0
+    }
+  ]
+}

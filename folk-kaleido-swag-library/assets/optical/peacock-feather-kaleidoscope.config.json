@@ -1,0 +1,8 @@
+{
+  "id": "peacock-feather-kaleidoscope",
+  "generator": "KaleidoscopeGenerator",
+  "sourceAsset": "peacock-feather-segment",
+  "segments": 12,
+  "seed": 6618,
+  "animationPreset": "beat-kaleido-pulse"
+}

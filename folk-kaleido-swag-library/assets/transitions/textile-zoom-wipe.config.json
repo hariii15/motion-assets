@@ -1,0 +1,8 @@
+{
+  "id": "textile-zoom-wipe",
+  "generator": "TransitionMaskGenerator",
+  "sourceAsset": "jasmine-chain-segment",
+  "segments": 12,
+  "seed": 5842,
+  "animationPreset": "optical-tunnel-push"
+}

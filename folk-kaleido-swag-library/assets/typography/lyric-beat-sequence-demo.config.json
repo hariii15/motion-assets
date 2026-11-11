@@ -1,0 +1,8 @@
+{
+  "id": "lyric-beat-sequence-demo",
+  "generator": "LyricPatternGenerator",
+  "sourceAsset": "kolam-wedge-01",
+  "segments": 12,
+  "seed": 8558,
+  "animationPreset": "block-print-stamp"
+}

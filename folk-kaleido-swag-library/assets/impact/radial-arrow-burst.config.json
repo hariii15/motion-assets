@@ -1,0 +1,8 @@
+{
+  "id": "radial-arrow-burst",
+  "generator": "ImpactBurstGenerator",
+  "sourceAsset": "temple-car-wheel-segment",
+  "segments": 12,
+  "seed": 4096,
+  "animationPreset": "drop-expansion"
+}

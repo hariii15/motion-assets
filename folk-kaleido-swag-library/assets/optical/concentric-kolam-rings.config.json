@@ -1,0 +1,8 @@
+{
+  "id": "concentric-kolam-rings",
+  "generator": "OpticalTunnelGenerator",
+  "sourceAsset": "peacock-feather-segment",
+  "segments": 12,
+  "seed": 2253,
+  "animationPreset": "beat-kaleido-pulse"
+}

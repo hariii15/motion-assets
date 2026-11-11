@@ -1,0 +1,8 @@
+{
+  "id": "petal-explosion",
+  "generator": "ImpactBurstGenerator",
+  "sourceAsset": "kolam-wedge-01",
+  "segments": 12,
+  "seed": 3902,
+  "animationPreset": "drop-expansion"
+}

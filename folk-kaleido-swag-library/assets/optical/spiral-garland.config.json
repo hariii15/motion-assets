@@ -1,0 +1,8 @@
+{
+  "id": "spiral-garland",
+  "generator": "OpticalTunnelGenerator",
+  "sourceAsset": "ornamental-eye-segment",
+  "segments": 12,
+  "seed": 3126,
+  "animationPreset": "flower-ring-expansion"
+}
