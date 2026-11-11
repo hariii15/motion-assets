@@ -1,0 +1,32 @@
+{
+  "result": "PASS",
+  "frames": 180,
+  "fps": 30,
+  "durationSeconds": 6,
+  "width": 1080,
+  "height": 1440,
+  "giantCornerUnits": 4,
+  "sourceCanvasPixels": 3200,
+  "artworkDiameterPixelsApprox": 2400,
+  "placement": "Centres outside canvas; inward quarters visible. Smooth outside-edge circulation and wave offsets.",
+  "layers": "Warm Terracotta, four giant composite motifs, hero cutout, sparse subject flashes.",
+  "portraitHoldSeconds": 0.2,
+  "portraitSequenceRepeats": 5,
+  "loopBoundaryExact": true,
+  "subjectFlashFrames": [
+    1,
+    31,
+    61,
+    91,
+    121,
+    151
+  ],
+  "creamExposureFrames": [
+    1,
+    61,
+    121
+  ],
+  "soundtrack": null,
+  "songTempoVerified": false,
+  "sha256": "eb8ff23b1db2c600ab65f616c2636285ed2d59078e9c8b7e39d3c249646457dd"
+}
